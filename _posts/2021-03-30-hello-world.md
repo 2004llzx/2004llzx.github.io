@@ -4,13 +4,13 @@ date: 2022-03-26 10:34:00 +0800
 categories: [随笔]
 tags: [生活]
 pin: true
-author: 湾区书记汤姆
+author: 扎西的个人博客
 
 toc: true
 comments: true
 typora-root-url: ../../tomstillcoding.github.io
 math: false
-mermaid: true
+mermaid: tr[2021-03-30-hello-world.md](2021-03-30-hello-world.md)ue
 
 image:
   src: /assets/blog_res/2021-03-30-hello-world.assets/huoshan.jpg
@@ -18,7 +18,7 @@ image:
 
 ---
 
-# 感谢关注～ 
+# 感谢关注～
 
 
 这里可以放代码片段噢～
